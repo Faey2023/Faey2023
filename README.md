@@ -48,12 +48,6 @@
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=faey2023&show_icons=true&locale=en&layout=compact" alt="faey2023" /></p> -->
 
-<div align="center">
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faey2023&theme=bear)
-
-</div>
-
 # 🤭 Dev Jokes
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
