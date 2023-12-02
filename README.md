@@ -1,16 +1,19 @@
+# Assalmu Alaikum 👋🏼
 
-# Assalmu Alaikum 👋🏼 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=000000&random=false&width=435&lines=I+am+Fahima+Akhter;I+am+a+Web+Developer)](https://git.io/typing-svg)
 
 <div align="center">
 
-![Banner!](</assets/github-header-image.png>)
+![Banner!](/assets/github-header-image.png)
+
 </div>
 
 ## 📈 Contributions
+
 ![contribution chart!](</assets/github-wrapped%20(1).png>)
 
 ## 💻 Technologies I know
+
 <!-- ![html5!](/assets/logos/html.png)
 ![css!](/assets/logos/css.png)
 ![tailwind!](/assets/logos/tailwind.png)
@@ -31,15 +34,19 @@
 
 ## 📊 Current Stats
 
-<a align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Faey2023&theme=cobalt" alt="GitHub Streak" /></a>
-
 <div align="center">
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=faey2023&theme=bear)
+<a  href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Faey2023&theme=cobalt" alt="GitHub Streak" /></a>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faey2023&theme=bear)
 </div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=faey2023&show_icons=true&locale=en&layout=compact" alt="faey2023" /></p>
+<!-- <div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=faey2023&theme=bear)
+
+</div> -->
+
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=faey2023&show_icons=true&locale=en&layout=compact" alt="faey2023" /></p> -->
 
 <div align="center">
   
@@ -48,26 +55,15 @@
 </div>
 
 # 🤭 Dev Jokes
+
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=faey2023&theme=bear) -->
 
-
-
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faey2023&show_icons=true&locale=en" alt="faey2023" /></p> -->
-
-
 
 <!-- ## Achievements -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=faey2023&label=Profile%20views&color=0e75b6&style=flat" alt="faey2023" /> </p> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faey2023" alt="faey2023" /></a></p> -->
-
-
-
-
-
-
-
-
