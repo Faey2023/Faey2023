@@ -1,6 +1,8 @@
-![Banner!](</assets/github-header-image.png>)
+
 # Assalmu Alaikum 👋🏼 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=000000&random=false&width=435&lines=I+am+Fahima+Akhter;I+am+a+MERN+Stack+Developer)](https://git.io/typing-svg)
+
+![Banner!](</assets/github-header-image.png>)
 
 ## 📈 Contributions
 ![contribution chart!](</assets/github-wrapped%20(1).png>)
