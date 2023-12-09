@@ -26,11 +26,19 @@
 
 ## 📊 Current Stats
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Faey2023&theme=cobalt" alt="GitHub Streak" /></a>
+<a align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Faey2023&theme=cobalt" alt="GitHub Streak" /></a>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=faey2023&theme=bear)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faey2023&show_icons=true&locale=en&layout=compact" alt="faey2023" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faey2023&show_icons=true&locale=en" alt="faey2023" /></p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faey2023&theme=bear)
+
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=faey2023&theme=bear) -->
+
+
+
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faey2023&show_icons=true&locale=en" alt="faey2023" /></p> -->
 
 
 
@@ -39,23 +47,6 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=faey2023&label=Profile%20views&color=0e75b6&style=flat" alt="faey2023" /> </p> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faey2023" alt="faey2023" /></a></p> -->
-
-## h
-<p>&nbsp;<a align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faey2023&theme=bear" alt="faey2023"></a></p>
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faey2023&theme=bear)
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=faey2023&theme=bear)
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=faey2023&theme=bear)
-
-
-
-
-<!--  -->
 
 
 
