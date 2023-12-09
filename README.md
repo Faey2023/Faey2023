@@ -1,6 +1,6 @@
 <!-- ![Banner!](</assets/banner(2).png>) -->
 # Assalmu Alaikum 👋🏼 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=000000&random=false&width=435&lines=I+am+Fahima+Akhter;I+am+MERN+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=000000&random=false&width=435&lines=I+am+Fahima+Akhter;I+am+a+MERN+Stack+Developer)](https://git.io/typing-svg)
 
 ## 📈 Contributions
 ![contribution chart!](</assets/github-wrapped%20(1).png>)
@@ -33,6 +33,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faey2023&show_icons=true&locale=en&layout=compact" alt="faey2023" /></p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faey2023&theme=bear)
+
+# 🤭 Dev Jokes
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=faey2023&theme=bear) -->
 
