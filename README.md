@@ -1,11 +1,11 @@
 <!-- ![Banner!](</assets/banner(2).png>) -->
-# Assalamu Alaikum I'm Fahima Akhter
-## 📈 Contributions
+# Assalmu Alaikum 👋🏼 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=000000&random=false&width=435&lines=I+am+Fahima+Akhter;I+am+MERN+Stack+Developer)](https://git.io/typing-svg)
 
+## 📈 Contributions
 ![contribution chart!](</assets/github-wrapped%20(1).png>)
 
 ## 💻 Technologies I know
-
 <!-- ![html5!](/assets/logos/html.png)
 ![css!](/assets/logos/css.png)
 ![tailwind!](/assets/logos/tailwind.png)
