@@ -1,6 +1,6 @@
 
 # Assalmu Alaikum 👋🏼 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=000000&random=false&width=435&lines=I+am+Fahima+Akhter;I+am+a+MERN+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=000000&random=false&width=435&lines=I+am+Fahima+Akhter;I+am+a+Web+Developer)](https://git.io/typing-svg)
 
 <div align="center">
 
