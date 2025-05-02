@@ -1,11 +1,9 @@
 # Assalmu Alaikum 👋🏼
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=000000&random=false&width=435&lines=I+am+Fahima+Akhter;I+am+a+Web+Developer)](https://git.io/typing-svg)
-
 <div align="center">
-
-![Banner!](/assets/github-header-image.png)
-
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=50&color=FFFFFFFF&background=FFFFFF00&width=600&lines=I+am+Fahima+Akhter;A+Frontend+Developer;A+MERN+Stack+Enthusiast;I+build+user-friendly+web+apps" alt="Typing SVG" />
+</a>
 </div>
 
 # 💫 About Me:
@@ -18,11 +16,14 @@
 ## 📊 Current Stats
 
 <div align="center">
-<a  href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Faey2023&theme=cobalt" alt="GitHub Streak" /></a>
+  
+![](https://nirzak-streak-stats.vercel.app/?user=faey2023&theme=radical&hide_border=false)<br/>
   
 ![](https://github-readme-stats.vercel.app/api?username=faey2023&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faey2023&theme=bear)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faey2023&theme=bear)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=faey2023&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
 # 🤭 Dev Jokes
