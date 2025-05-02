@@ -9,10 +9,6 @@
 # 💫 About Me:
 🔭 I’m currently working as a Frontend Developer, building responsive and dynamic web applications.<br>🌱 I’m diving deeper into Next.js and modern frontend technologies.<br>👯 I’m open to collaborating on exciting projects and contributing to developer communities.<br>⚡ Fun fact: I can write a poem using any word you give me!
 
-## 📈 Contributions
-
-![contribution chart!](</assets/github-wrapped.png>)
-
 ## 📊 Current Stats
 
 <div align="center">
@@ -41,3 +37,7 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=faey2023&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+## 📈 Contributions
+
+![contribution chart!](</assets/github-wrapped.png>)
