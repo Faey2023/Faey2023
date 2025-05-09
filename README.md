@@ -36,14 +36,6 @@
 
 </div>
 
-## ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-## 🤭 Dev Jokes
-
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
-
 ## 🔝 Top Contributed Repo
 
 <div align="center">
@@ -51,6 +43,14 @@
 ![](https://github-contributor-stats.vercel.app/api?username=faey2023&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
+
+## ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## 🤭 Dev Jokes
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
 ## 📈 Contributions
 
